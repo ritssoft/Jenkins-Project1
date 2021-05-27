@@ -1,6 +1,5 @@
 C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\appsettings.json
-C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\Jenkins-Project1.exe
 C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\Jenkins-Project1.deps.json
 C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\Jenkins-Project1.runtimeconfig.json
@@ -9,7 +8,6 @@ C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\Jenkins-Project1.dll
 C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\Jenkins-Project1.pdb
 C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\Jenkins-Project1.Views.dll
 C:\DevOps2\Jenkins\Jenkins-Project1\bin\Debug\netcoreapp3.1\Jenkins-Project1.Views.pdb
-C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.csprojAssemblyReference.cache
 C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.csproj.CoreCompileInputs.cache
 C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.MvcApplicationPartsAssemblyInfo.cache
 C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.RazorAssemblyInfo.cache
@@ -35,3 +33,5 @@ C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.dll
 C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.pdb
 C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.genruntimeconfig.cache
 C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.csproj.CopyComplete
+C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\Jenkins-Project1.csproj.AssemblyReference.cache
+C:\DevOps2\Jenkins\Jenkins-Project1\obj\Debug\netcoreapp3.1\scopedcss\bundle\Jenkins-Project1.styles.css
